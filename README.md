@@ -43,7 +43,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-2. Navigate to the `notebook` folder and open `image_classification.ipynb`
+2. Navigate to the `notebook` folder and open `eoflTest.ipynb`
 
 3. Run the cells in order from top to bottom:
 
