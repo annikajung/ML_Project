@@ -20,13 +20,13 @@ cd ML_Project
 
 On Windows:
 ```bash
-python -m venv venv
+python3 -m venv venv
 venv\Scripts\activate
 ```
 
 On macOS/Linux:
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 
